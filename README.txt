@@ -1,4 +1,4 @@
-Downloaded what we went over in class (wordshop.py)
+Downloaded wordshop.py from what we covered back when I was learning Python. 
 
 Imported re
 
